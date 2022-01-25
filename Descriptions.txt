@@ -1,0 +1,79 @@
+Thunderstorm
+    1 thunderstorm with light drizzle
+    2 thunderstorm with drizzle
+    3 thunderstorm with heavy drizzle
+    4 thunderstorm with light rain
+    5 thunderstorm with rain
+    6 thunderstorm with heavy rain
+    7 light thunderstorm
+    8 thunderstorm
+
+ThunderstormProx
+    1 proximity thunderstorm
+    2 proximity thunderstorm with drizzle
+    3 proximity thunderstorm with rain
+
+Drizzle
+    1 light intensity drizzle
+    2 drizzle
+    3 heavy intensity drizzle
+    4 light intensity drizzle rain
+    5 shower drizzle
+
+Rain
+    1 light rain
+    2 moderate rain
+    3 heavy intensity rain
+    4 very heavy rain
+    5 light intensity shower rain
+    6 shower rain
+    7 heavy intensity shower rain
+    8 ragged shower rain
+
+FreezingRain
+    1 freezing rain
+
+RainProx
+    1 proximity moderate rain
+    2 proximity shower rain
+
+Snow
+    1 light snow
+    2 Snow
+    3 Heavy snow
+
+Sleet
+    1 Sleet
+    2 Light shower sleet
+
+RainSnow
+    1 Light rain and snow
+    2 Light shower snow
+    3 Shower snow
+    4 Heavy shower snow
+
+Atmopsphere1 ?
+    1 mist
+    2 Smoke
+    3 Haze
+    4 fog
+
+Atmosphere2 ?
+    1 sand
+    2 dust
+    3 volcanic ash
+    4 proximity sand/dust whirls
+    5 sand/dust whirls
+
+Squall ?
+    1 squalls
+
+Tornado ?
+    1 tornado
+
+Clouds
+    1 sky is clear
+    2 few clouds
+    3 scattered clouds
+    4 broken clouds
+    5 overcast clouds
